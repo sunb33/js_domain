@@ -1,0 +1,27 @@
+{
+  "name": "js_domain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dmn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunb33/js_domain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunb33/js_domain/issues"
+  },
+  "homepage": "https://github.com/sunb33/js_domain#readme",
+  "devDependencies": {
+    "css-loader": "^4.0.0",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^9.0.2",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.44.0"
+  }
+}
